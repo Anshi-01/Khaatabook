@@ -19,7 +19,7 @@ The application ensures **data security** and offers a seamless **user experienc
 - **Backend**: Node.js, Express.js, EJS.  
 - **Database**: MongoDB (with Mongoose ORM).  
 - **Additional Libraries**: Bcrypt (for encryption), GSAP (animations).  
-- **Deployment**: Hosted on [Vercel](https://vercel.com/).
+- **Deployment**: Hosted on
 
 ---
 
